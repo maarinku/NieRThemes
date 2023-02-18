@@ -1,0 +1,7 @@
+{
+    "name": "NieRThemes",
+    "description": "A mod which incorporates (looped, nearly seamlessly) NieR music from NieR: Replicant, NieR: Automata, and NieR: Re[in]carnation into the game. Credit to Contraplayingmodded's OriginalSoundtrack mod. Not based on diggy's NierSoundtrack mod.",
+    "website_url": "https://github.com/maarinku/NieRThemes",
+    "version_number": "0.3.0",
+    "dependencies": []
+}
