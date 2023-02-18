@@ -6,3 +6,6 @@ This "mod" is built on kylepaulsen's OriginalSoundTrack mod (credits to them).
 This mod is not related to diggy's NierSoundtrack mod.
 
 If you want to give me suggestions for what to change or add, contact me on Discord: märin#4029
+
+## License
+This shares a license with kylepaulsen's mod, which is under MIT.
